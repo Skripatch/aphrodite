@@ -32,14 +32,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Khan/aphrodite.git"
+    "url": "https://github.com/Skripatch/aphrodite.git"
   },
   "author": "Jamie Wong",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Khan/aphrodite/issues"
+    "url": "https://github.com/Skripatch/aphrodite/issues"
   },
-  "homepage": "https://github.com/Khan/aphrodite",
+  "homepage": "https://github.com/Skripatch/aphrodite",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
