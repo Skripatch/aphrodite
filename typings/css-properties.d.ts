@@ -1734,6 +1734,12 @@ export interface CSSPropertiesComplete {
      */
     voiceVolume?: CSSWideKeyword | string | number;
 
+  /**
+   * Non-standatrized properties supported only by webkit;
+   */
+    '-webkitLineClamp'?: CSSWideKeyword | number;
+    '-webkitBoxOrient'?: CSSWideKeyword | string;
+
     /**
      * The white-space property controls whether and how white space inside the element is collapsed, and whether lines may wrap at unforced "soft wrap" opportunities.
      */
