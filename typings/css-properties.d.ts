@@ -1737,7 +1737,7 @@ export interface CSSPropertiesComplete {
   /**
    * Non-standatrized properties supported only by webkit;
    */
-    '-webkitLineClamp'?: CSSWideKeyword | number;
+    '-webkitLineClamp'?: CSSWideKeyword | string | number;
     '-webkitBoxOrient'?: CSSWideKeyword | string;
 
     /**
